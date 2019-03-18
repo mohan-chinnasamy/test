@@ -1,1 +1,3 @@
-<?php echo "My first commit";?>
+<?php echo "My first commit";
+echo "My second commit";
+?>
